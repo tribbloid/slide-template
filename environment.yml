@@ -19,3 +19,4 @@ dependencies:
   - pip:
         - nbmerge
         - brine
+        - jupyterlab-link-share # https://discourse.jupyter.org/t/collaborating-on-one-binder-instance/407/8
