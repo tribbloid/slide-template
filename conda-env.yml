@@ -1,0 +1,23 @@
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - six
+  - tqdm
+  - future
+  - numpy
+  - matplotlib
+  - networkx
+  - dataclasses
+  - pytest
+  - IPython
+  - jupyterlab
+  - nbformat
+  - pylint
+  - yapf
+
+  - pip
+  - pip:
+        - nbmerge
+        - brine

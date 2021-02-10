@@ -1,0 +1,3 @@
+[submodule "slide-common"]
+	path = slide-common
+	url = https://github.com/tribbloid/slide-common
